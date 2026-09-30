@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "values": {
+    "key_profile_seconds": 3,
+    "profile_seconds": 5,
+    "show_dash_screen": true,
+    "thumbnails": true,
+    "max_items_per_page": 150,
+    "auto_scan": false,
+    "auto_scan_seconds": 20,
+    "auto_scan_report": true,
+    "heatmap_max_object_meters": 50.0,
+    "share_selection_box": false,
+    "selection_box_hidden": true,
+    "light_test_max_lights": 40,
+    "light_test_block_seconds": 0.3,
+    "light_volume_max_meters": 60.0,
+    "light_volume_opacity": 0.16,
+    "physics_test_max_objects": 30,
+    "physics_test_block_seconds": 0.3
+  }
+}
